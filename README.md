@@ -67,7 +67,7 @@ console.log(paragraphs.length);
 
 intro-web covers how to find the console in your browser.
 
-You can read about all the element selectors [here](http://www.w3schools.com/jsref/dom_obj_all.asp).
+You can read about all the element selectors [here](http://www.w3schools.com/jsref/dom_obj_all.asp). Two selectors to note is `querySelector()` and `querySelectorAll()` which allow you to use CSS selectors to refer to elements.
 
 
 Javascript can also make some cool animations using `requestAnimationFrame`:
@@ -102,6 +102,8 @@ window.requestAnimationFrame(moveRight); // initial function call, which begins 
 How could you make an image move up and down in a circle? Try using `Math.sin()` and `Math.cos()`.
 
 <!-- Possibly move animations to "Cool Examples" section? -->
+
+### What are events and how are they used?
 
 ### Cool Examples of Javascript
 
