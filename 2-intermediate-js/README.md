@@ -23,5 +23,24 @@ We're making a voice search for imgur.com. It will take use of the Web Speech AP
 - Your client ID for interacting with the imgur API can be found [here](https://imgur.com/account/settings/apps)
 - Take note of that ID, you'll be using it during the workshop
 
-<!-- Kyle will add info on commiting old changes / forking repo shortly -->
+
+### Getting the wokrshop
+
+If you were at last week's workshop and already forked/cloned the dvcoders/intro-js repository:
+
+1. `cd` into your intro-js directory
+2. Run `git status`.
+3. If it doesn't say `nothing to commit, working directory clean`:
+ - `git add -A` to add the files you've changed
+ - and `git commit -m "finished rocketship workshop"`
+ - and `git push origin master` to push those changes (assuming you are on branch master)
+ - Now all your work from the last workshop is on github!
+4. Make sure you're on `master`, you can check with `git status`
+ - If needed, `git checkout master`
+4. Now you should set "upstream" to track the dvcoder's intro-js repostiory:
+ - `git remote add upstream https://github.com/dvcoders/intro-js.git`
+5. `git fetch upstream`
+ - This fetches the new changes added to the intermediate-js folder in the dvcoder's intro-js repository
+
+- Github goes into detail about this process [here](https://help.github.com/articles/syncing-a-fork/)
 
