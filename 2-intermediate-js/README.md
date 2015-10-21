@@ -41,6 +41,8 @@ If you were at last week's workshop and already forked/cloned the dvcoders/intro
  - `git remote add upstream https://github.com/dvcoders/intro-js.git`
 5. `git fetch upstream`
  - This fetches the new changes added to the intermediate-js folder in the dvcoder's intro-js repository
+ - It places the changes in branches called upstream/[branch-name]
+6. `git merge upstream/master` to merge the changes to your master branch
 
 - Github goes into detail about this process [here](https://help.github.com/articles/syncing-a-fork/)
 
