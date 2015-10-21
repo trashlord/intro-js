@@ -6,6 +6,7 @@ We're making a voice search for imgur.com. It will take use of the Web Speech AP
 - [Google's example for the web speech API](https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API?hl=en)
 - [Web Speech API Documentation (dense)](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html)
 
+A huge thanks to Hackers@Berkeley for letting us use their workshop!
 
 ### Prerequisites
 
@@ -13,7 +14,9 @@ We're making a voice search for imgur.com. It will take use of the Web Speech AP
 
 - Have a text editor
 
-- Know how to user the developer tools in Chrome [refresher](https://github.com/dvcoders/intro-html-css/blob/master/reference/README.md#what-are-your-browsers-developer-tools-and-how-can-they-be-used)
+- Have a recent version of Chrome (try going to the [finished project](https://carpetfizz.github.io/imgur-voice/) to see if your browser is recent enough
+
+- Know how to use the developer tools in Chrome [refresher](https://github.com/dvcoders/intro-html-css/blob/master/reference/README.md#what-are-your-browsers-developer-tools-and-how-can-they-be-used)
 
 - [Register your app with imgur to use their API](https://api.imgur.com/oauth2/addclient)
 	- Create an imgur account if you don't have one
