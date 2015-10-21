@@ -24,7 +24,7 @@ We're making a voice search for imgur.com. It will take use of the Web Speech AP
 - Take note of that ID, you'll be using it during the workshop
 
 
-### Getting the wokrshop
+### Getting the workshop
 
 If you were at last week's workshop and already forked/cloned the dvcoders/intro-js repository:
 
